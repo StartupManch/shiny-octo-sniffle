@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "StartupManch",
+    "description": "",
+    "home_page_url": "https://startupmanch.github.io/shiny-octo-sniffle",
+    "feed_url": "https://startupmanch.github.io/shiny-octo-sniffle/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Devesh Kumar"
+    },
+    "items": [
+    ]
+}

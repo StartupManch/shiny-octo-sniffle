@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://startupmanch.github.io/shiny-octo-sniffle/sitemap.xml
